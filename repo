@@ -1,5 +1,1 @@
-{ "paging": { "page": 1, "count": 1, "maxPage": 1, "itemsTotal": 1 }, "packages": [ { "id": "com.nextflix.iptv", "title": "NextFlix", "iconUri": "https://raw.githubusercontent.com/marcpnut/nextflix-webos/main/public/nextflix-icon-violet.png", "manifestUrl": "https://raw.githubusercontent.com/marcpnut/nextflix-webos/main/homebrew/com.nextflix.iptv-1.0.7.manifest.json" } ] }
-
-
-
-
+{"paging":{"page":1,"count":1,"maxPage":1,"itemsTotal":1},"packages":[{"id":"com.nextflix.iptv","title":"NextFlix","iconUri":"https://raw.githubusercontent.com/marcpnut/nextflix-webos/main/public/nextflix-icon-violet.png","manifestUrl":"https://raw.githubusercontent.com/marcpnut/nextflix-webos/main/homebrew/com.nextflix.iptv-1.0.8.manifest.json"}]}
