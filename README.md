@@ -1,7 +1,5 @@
-# NextFlix Homebrew catalog endpoint
+# LG webOS homebrew catalog
 
-GitHub Pages serves the Homebrew catalog at `/repo` and `/repo.json`.
-The current catalog offers NextFlix v1.0.7 C9 compatibility test build. The catalog points directly to the public IPK in the NextFlix repository; this Pages site contains public catalog metadata only.
+GitHub Pages serves the webOS app catalog at [`/repo`](https://marcpnut.github.io/repo) and [`/repo.json`](https://marcpnut.github.io/repo.json).
 
-
-
+The catalog includes NextFlix and NightOwl. NightOwl's C9-compatible IPK and source are in [the NightOwl repository](https://github.com/marcpnut/NightOwl).
