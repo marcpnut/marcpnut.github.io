@@ -1,8 +1,8 @@
 {
   "paging": {
     "maxPage": 1,
-    "count": 1,
-    "itemsTotal": 1,
+    "count": 2,
+    "itemsTotal": 2,
     "page": 1
   },
   "packages": [
@@ -11,6 +11,12 @@
       "title": "NextFlix",
       "manifestUrl": "https://marcpnut.github.io/com.nextflix.iptv.manifest.json",
       "iconUri": "https://raw.githubusercontent.com/marcpnut/nextflix-webos/main/public/nextflix-icon-violet.png"
+    },
+    {
+      "id": "com.streamcinema.iptv",
+      "title": "NightOwl",
+      "manifestUrl": "https://marcpnut.github.io/com.streamcinema.iptv.manifest.json",
+      "iconUri": "https://raw.githubusercontent.com/marcpnut/NightOwl/main/client/public/icon.png"
     }
   ]
 }
