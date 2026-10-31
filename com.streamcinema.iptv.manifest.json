@@ -9,7 +9,7 @@
   "rootRequired": false,
   "ipkUrl": "https://raw.githubusercontent.com/marcpnut/NightOwl/main/release/NightOwl-webos-c9-0.2.7.ipk",
   "ipkHash": {
-    "sha256": "5dfd9eb21178dd8da2f908ddd4ff85ddb0dacc3c8ac88eae960a0453236d923c"
+    "sha256": "5dfd9eb21178dd8da2f908ddd4ff85ddbd0acc3c8ac88eae960a0453236d923c"
   },
   "ipkSize": 88266,
   "installedSize": 218828
