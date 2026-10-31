@@ -1,8 +1,8 @@
 {
   "paging": {
     "maxPage": 1,
-    "count": 2,
-    "itemsTotal": 2,
+    "count": 3,
+    "itemsTotal": 3,
     "page": 1
   },
   "packages": [
@@ -17,6 +17,12 @@
       "title": "NightOwl",
       "manifestUrl": "https://marcpnut.github.io/com.streamcinema.iptv-0.3.10.manifest.json",
       "iconUri": "https://raw.githubusercontent.com/marcpnut/NightOwl/main/client/public/icon.png"
+    },
+    {
+      "id": "com.nightowly.iptv",
+      "title": "NightOwly",
+      "manifestUrl": "https://marcpnut.github.io/com.nightowly.iptv-1.0.0.manifest.json",
+      "iconUri": "https://raw.githubusercontent.com/marcpnut/NightOwly/main/client/public/icon.png"
     }
   ]
 }
