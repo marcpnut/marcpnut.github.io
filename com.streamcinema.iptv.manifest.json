@@ -1,16 +1,16 @@
 {
   "id": "com.streamcinema.iptv",
-  "version": "0.3.3",
+  "version": "0.3.4",
   "type": "web",
   "title": "NightOwl",
   "appDescription": "NightOwl media app for LG webOS TVs, including C9.",
   "iconUri": "https://raw.githubusercontent.com/marcpnut/NightOwl/main/client/public/icon.png",
   "sourceUrl": "https://github.com/marcpnut/NightOwl",
   "rootRequired": false,
-  "ipkUrl": "https://raw.githubusercontent.com/marcpnut/NightOwl/main/release/NightOwl-webos-c9-0.3.3.ipk",
+  "ipkUrl": "https://raw.githubusercontent.com/marcpnut/NightOwl/main/release/NightOwl-webos-c9-0.3.4.ipk",
   "ipkHash": {
-    "sha256": "50ff077d454aeb827efa80b9222e03b0b9842930bd9cd1091f4bd691d96287f8"
+    "sha256": "73b941bb5ed709e499c3b701867bef0fe09bd65346b418594c75b96f95f9f621"
   },
-  "ipkSize": 89668,
+  "ipkSize": 86916,
   "installedSize": 220704
 }
