@@ -8,3 +8,6 @@ The catalog includes NextFlix, NightOwl, and NightOwly. NightOwl 0.3.25 shows th
 The webOS app asks for the server address during sign-in; this address is not stored in the repository or package.
 
 
+
+NightOwly 1.0.2: [Download the webOS IPK](https://marcpnut.github.io/NightOwly-webos-1.0.2.ipk). NightOwly connects directly to an Xtream provider and does not require the NightOwl server.
+

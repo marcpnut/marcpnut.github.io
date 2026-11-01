@@ -1,0 +1,16 @@
+{
+  "id": "com.nightowly.iptv",
+  "version": "1.0.2",
+  "type": "web",
+  "title": "NightOwly",
+  "appDescription": "Standalone Xtream client for LG webOS TVs. Connects directly to your provider.",
+  "iconUri": "https://raw.githubusercontent.com/marcpnut/NightOwly/main/client/public/icon.png",
+  "sourceUrl": "https://github.com/marcpnut/NightOwly",
+  "rootRequired": false,
+  "ipkUrl": "https://marcpnut.github.io/NightOwly-webos-1.0.2.ipk",
+  "ipkHash": {
+    "sha256": "6885f88a81fd5d8deafb29a3a9d458b93e9304598fc6d1a50c175d12dc11160e"
+  },
+  "ipkSize": 97854,
+  "installedSize": 271509
+}
