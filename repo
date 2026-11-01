@@ -15,7 +15,7 @@
     {
       "id": "com.nightowly.iptv",
       "title": "NightOwly",
-      "manifestUrl": "https://marcpnut.github.io/com.nightowly.iptv-1.0.3.manifest.json",
+      "manifestUrl": "https://marcpnut.github.io/com.nightowly.iptv-1.0.4.manifest.json",
       "iconUri": "https://raw.githubusercontent.com/marcpnut/NightOwly/main/client/public/icon.png"
     }
   ]
