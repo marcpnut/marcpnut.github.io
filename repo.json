@@ -15,7 +15,7 @@
     {
       "id": "com.streamcinema.iptv",
       "title": "NightOwl",
-      "manifestUrl": "https://raw.githubusercontent.com/marcpnut/marcpnut.github.io/main/com.streamcinema.iptv.manifest.json",
+      "manifestUrl": "https://raw.githubusercontent.com/marcpnut/marcpnut.github.io/168756f4dea6402054430c4e3cf45f371704caf4/com.streamcinema.iptv.manifest.json",
       "iconUri": "https://raw.githubusercontent.com/marcpnut/NightOwl/main/client/public/icon.png"
     },
     {
