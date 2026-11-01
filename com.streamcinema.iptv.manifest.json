@@ -4,7 +4,7 @@
   "type": "web",
   "title": "NightOwl",
   "appDescription": "NightOwl for LG webOS. Remembers the selected profile per device and supports setting the account main profile.",
-  "iconUri": "https://marcpnut.github.io/icon.png",
+  "iconUri": "https://raw.githubusercontent.com/marcpnut/NightOwl/main/client/public/icon.png",
   "sourceUrl": "https://github.com/marcpnut/NightOwl",
   "rootRequired": false,
   "ipkUrl": "https://marcpnut.github.io/NightOwl-webos-c9-0.3.26.ipk",
