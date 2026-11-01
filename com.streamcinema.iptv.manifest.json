@@ -1,16 +1,16 @@
 {
   "id": "com.streamcinema.iptv",
-  "version": "0.3.17",
+  "version": "0.3.18",
   "type": "web",
   "title": "NightOwl",
   "appDescription": "NightOwl for LG webOS. Enter your server address at sign-in; tries provider streams directly and requests a server remux if playback fails.",
   "iconUri": "https://marcpnut.github.io/icon.png",
   "sourceUrl": "https://github.com/marcpnut/NightOwl",
   "rootRequired": false,
-  "ipkUrl": "https://marcpnut.github.io/NightOwl-webos-c9-0.3.17.ipk",
+  "ipkUrl": "https://marcpnut.github.io/NightOwl-webos-c9-0.3.18.ipk",
   "ipkHash": {
-    "sha256": "49caf4c1fc7379d888e4c867fdcfdcce7d4fb57b0c5e01d4aea02f5220948ad6"
+    "sha256": "b9f628df5010f22cb6c429fdf9e604e3febb476b659a7912d2d679e462b78d40"
   },
-  "ipkSize": 103446,
+  "ipkSize": 103506,
   "installedSize": 266240
 }
