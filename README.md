@@ -2,7 +2,7 @@
 
 GitHub Pages serves the webOS app catalog at [`/repo`](https://marcpnut.github.io/repo) and [`/repo.json`](https://marcpnut.github.io/repo.json).
 
-The catalog includes NightOwl and NightOwly. NightOwl 0.3.28 plays the original provider stream directly on webOS instead of switching to a server remux. [Download NightOwl webOS 0.3.28](https://marcpnut.github.io/NightOwl-webos-c9-0.3.28.ipk), or view [the NightOwl source repository](https://github.com/marcpnut/NightOwl).
+The catalog includes NightOwl and NightOwly. NightOwl 0.3.29 tries the original provider stream first on all platforms and asks before switching to a server remux. [Download NightOwl webOS 0.3.29](https://marcpnut.github.io/NightOwl-webos-c9-0.3.29.ipk), or view [the NightOwl source repository](https://github.com/marcpnut/NightOwl).
 
 
 The webOS app asks for the server address during sign-in; this address is not stored in the repository or package.
