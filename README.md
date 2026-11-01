@@ -2,7 +2,7 @@
 
 GitHub Pages serves the webOS app catalog at [`/repo`](https://marcpnut.github.io/repo) and [`/repo.json`](https://marcpnut.github.io/repo.json).
 
-The catalog includes NextFlix, NightOwl, and NightOwly. NightOwl 0.3.25 shows the active profile name on My Cinema and tries the provider stream before falling back to a server remux. [Download NightOwl webOS 0.3.25](https://marcpnut.github.io/NightOwl-webos-c9-0.3.25.ipk), or view [the NightOwl source repository](https://github.com/marcpnut/NightOwl).
+The catalog includes NextFlix, NightOwl, and NightOwly. NightOwl 0.3.26 remembers the selected profile per device and lets you set the main profile. [Download NightOwl webOS 0.3.26](https://marcpnut.github.io/NightOwl-webos-c9-0.3.26.ipk), or view [the NightOwl source repository](https://github.com/marcpnut/NightOwl).
 
 
 The webOS app asks for the server address during sign-in; this address is not stored in the repository or package.
@@ -10,4 +10,3 @@ The webOS app asks for the server address during sign-in; this address is not st
 
 
 NightOwly 1.0.2: [Download the webOS IPK](https://marcpnut.github.io/NightOwly-webos-1.0.2.ipk). NightOwly connects directly to an Xtream provider and does not require the NightOwl server.
-
