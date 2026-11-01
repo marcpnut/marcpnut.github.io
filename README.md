@@ -6,3 +6,5 @@ The catalog includes NextFlix, NightOwl, and NightOwly. NightOwl 0.3.14 tries pr
 
 
 The webOS app asks for the server address during sign-in; this address is not stored in the repository or package.
+
+Temporary Homebrew feed while Pages recovers: https://raw.githubusercontent.com/marcpnut/marcpnut.github.io/main/repo
