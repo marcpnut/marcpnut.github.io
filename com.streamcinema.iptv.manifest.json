@@ -4,10 +4,10 @@
   "type": "web",
   "title": "NightOwl",
   "appDescription": "NightOwl for LG webOS. Enter your server address at sign-in; tries provider streams directly and requests a server remux if playback fails.",
-  "iconUri": "https://raw.githubusercontent.com/marcpnut/NightOwl/main/client/public/icon.png",
+  "iconUri": "https://marcpnut.github.io/icon.png",
   "sourceUrl": "https://github.com/marcpnut/NightOwl",
   "rootRequired": false,
-  "ipkUrl": "https://raw.githubusercontent.com/marcpnut/marcpnut.github.io/main/NightOwl-webos-c9-0.3.14.ipk",
+  "ipkUrl": "https://marcpnut.github.io/NightOwl-webos-c9-0.3.14.ipk",
   "ipkHash": {
     "sha256": "0853d8e15468e2af7179fea52019b759d11a13ee33370d20af14aaae6484a41c"
   },

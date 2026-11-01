@@ -9,8 +9,8 @@
     {
       "id": "com.streamcinema.iptv",
       "title": "NightOwl",
-      "manifestUrl": "https://raw.githubusercontent.com/marcpnut/marcpnut.github.io/main/com.streamcinema.iptv.manifest.json",
-      "iconUri": "https://raw.githubusercontent.com/marcpnut/NightOwl/main/client/public/icon.png"
+      "manifestUrl": "https://marcpnut.github.io/com.streamcinema.iptv.manifest.json",
+      "iconUri": "https://marcpnut.github.io/icon.png"
     }
   ]
 }
