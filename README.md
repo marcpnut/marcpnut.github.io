@@ -9,4 +9,4 @@ The webOS app asks for the server address during sign-in; this address is not st
 
 
 
-NightOwly 1.0.4 plays provider streams directly on webOS: [Download the webOS IPK](https://marcpnut.github.io/NightOwly-webos-1.0.4.ipk). NightOwly connects directly to an Xtream provider and does not require the NightOwl server.
+NightOwly 1.0.5 plays provider streams directly and offers remux only after confirmation: [Download the webOS IPK](https://marcpnut.github.io/NightOwly-webos-1.0.5.ipk). NightOwly connects directly to an Xtream provider and does not require a NightOwl catalog server.
