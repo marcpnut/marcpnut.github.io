@@ -1,16 +1,16 @@
 {
   "id": "com.streamcinema.iptv",
-  "version": "0.3.29",
+  "version": "0.3.30",
   "type": "web",
   "title": "NightOwl",
-  "appDescription": "NightOwl for LG webOS. Remembers the selected profile per device and supports setting the account main profile.",
+  "appDescription": "NightOwl for LG webOS. Live channel favorites, Channel Up/Down surfing, and centered playback error dialogs.",
   "iconUri": "https://raw.githubusercontent.com/marcpnut/NightOwl/main/client/public/icon.png",
   "sourceUrl": "https://github.com/marcpnut/NightOwl",
   "rootRequired": false,
-  "ipkUrl": "https://marcpnut.github.io/NightOwl-webos-c9-0.3.29.ipk",
+  "ipkUrl": "https://marcpnut.github.io/NightOwl-webos-c9-0.3.30.ipk",
   "ipkHash": {
-    "sha256": "70172af6e243a16d7c710ecde48082791e0907943e999edd45741354f804ec90"
+    "sha256": "334d5650fbcb67abaaaf0782ad5336c7a634dc266d723e8b329c60438b14a3f4"
   },
-  "ipkSize": 104964,
+  "ipkSize": 105602,
   "installedSize": 288288
 }
