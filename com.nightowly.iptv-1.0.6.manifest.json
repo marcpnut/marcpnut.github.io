@@ -9,8 +9,8 @@
   "rootRequired": false,
   "ipkUrl": "https://marcpnut.github.io/NightOwly-webos-1.0.6.ipk",
   "ipkHash": {
-    "sha256": "c98b51af50c290098705c948c0bfae33e38b1478f0178accb241aced1b5ba450"
+    "sha256": "863ff3ff21a9138bbf14078081b12da2ae5bdd6702fb77040866b3d4a1f8f221"
   },
-  "ipkSize": 98988,
+  "ipkSize": 99000,
   "installedSize": 272050
 }
